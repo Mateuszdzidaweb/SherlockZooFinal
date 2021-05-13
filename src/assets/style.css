@@ -1,0 +1,389 @@
+/*
+Them Name: SherlockZoo
+Version: 1.0
+Description: Custom theme for Zherlock Zoo
+Tags: responsive, zoo theme
+Author: Mateusz Dzida
+
+
+
+*/
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk338xsBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Black Han Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8nqV.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chango';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/chango/v11/2V0cKI0OB5U7WaJyzw.ttf) format('truetype');
+}
+.main-heading-font {
+  font-family: 'Black Han Sans', sans-serif;
+}
+.secondary-heading-font {
+  font-family: 'Chango', cursive;
+}
+.main-text-font {
+  font-family: 'Arimo', sans-serif;
+}
+.main-green-bg {
+  background-color: #198754;
+}
+.golden-bg {
+  background-color: darkgoldenrod;
+}
+body {
+  font-family: sans-serif !important;
+  height: 100%;
+}
+.font-petite-caps {
+  font-variant-caps: petite-caps;
+}
+.font-fantasy {
+  font-family: fantasy;
+}
+.center {
+  display: flex;
+  align-items: center;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.center-no-flex {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+h1 {
+  font-size: 32px;
+  /* background-color: rgb(0,0,0); Fallback color */
+  /* background-color: rgba(0,0,0, 0.4); */
+}
+.nav-link {
+  font-variant-caps: petite-caps;
+}
+.carousel-bgimg1 {
+  /* background-image: url(/carouse-img-1.jpg); */
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+}
+.carousel-bgimg2 {
+  /* background-image: url(/public/resources/carouse-image8.jpg); */
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+.carousel-bgimg3 {
+  /* background-image: url(/public/resources/carouse-image6.jpg); */
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  /* filter: blur(0.5px); */
+}
+.carousel-caption {
+  padding-bottom: 15rem !important;
+}
+.carousel {
+  background-color: #000000 !important;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  height: 4rem !important;
+  width: 4rem !important;
+}
+.table {
+  width: 70% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+.eventsTitle {
+  /* -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(/public/resources/panda-animal.jpg);
+    font-weight: 700;
+    -webkit-text-stroke: 0.5px black;  */
+}
+.mobileMenu {
+  display: none;
+}
+svg {
+  color: white !important;
+}
+/* Hovers */
+.supportusIMG {
+  transform: scale(0.95) !important;
+  transition: ease-in-out 0.5s !important;
+}
+.supportusIMG:hover {
+  transform: scale(1.05) !important;
+  transition: ease-in-out 0.5s !important;
+}
+.image-box-with-title:hover {
+  filter: brightness(0.7) !important;
+  transition: ease-in-out 0.5s !important;
+}
+.image-box-with-title {
+  filter: brightness(1) !important;
+  transition: ease-in-out 0.5s !important;
+}
+/* .image-box-with-title:hover{
+    transform: rotate(0deg) !important;
+    transition: ease-in-out .5s !important;
+}
+
+.image-box-with-title{
+    transform: rotate(8deg) !important;
+    transition: ease-in-out .5s !important;
+} */
+.active {
+  color: green !important;
+  /* border-bottom: 2px solid green; */
+}
+.nav-link:hover {
+  color: green !important;
+  /* border-bottom: 2px solid green; */
+}
+@media (max-width: 640px) {
+  .nav {
+    display: none !important;
+  }
+  #site-navigation {
+    display: none !important;
+  }
+  .mobileMenu {
+    display: flex;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.4);
+  }
+  .sticky-menu {
+    position: fixed;
+    background: white;
+    z-index: 99;
+    width: 100%;
+  }
+  .overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.93) !important;
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  .carousel-bgimg1,
+  .carousel-bgimg2,
+  .carousel-bgimg3 {
+    background-size: cover;
+  }
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    height: 2rem !important;
+    width: 2rem !important;
+  }
+  .supportusIMG {
+    transform: scale(1) !important;
+    transition: ease-in-out 0.5s !important;
+  }
+  .supportDivs {
+    margin-top: 10rem !important;
+  }
+  .img-box-text {
+    bottom: -9rem !important;
+  }
+  .table {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mobileParallax {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lion-max-height {
+    max-height: 180px;
+    max-width: 200px;
+  }
+  .mobile-hidden {
+    display: none;
+  }
+  .help-animlal-bg {
+    background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/panda-animal.jpg') !important;
+    background-position: center center;
+    background-size: cover;
+    box-shadow: none !important;
+  }
+  .help-animal-textBox {
+    box-shadow: none;
+    background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/panda-bears.jpg') !important;
+    background-position: center center;
+    background-size: cover !important;
+  }
+}
+#site-navigation,
+#menu-main-menu,
+.menu-main-menu-container {
+  background-color: #fff !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  justify-content: center!important;
+  display: flex;
+  flex-wrap: wrap;
+  top: 0 !important;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  z-index: 10;
+  width: 100%;
+  position: absolute;
+  font-family: 'Black Han Sans', sans-serif;
+}
+#site-navigation a {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  font-variant-caps: petite-caps;
+  color: black;
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+  font-weight: 400;
+}
+#site-navigation a:hover,
+#site-navigation a:active,
+a[aria-current] {
+  color: green !important;
+}
+.current_page_item {
+  font-weight: bolder;
+}
+.wp-block-buttons {
+  text-align: center;
+}
+.vist-us-home-image {
+  min-height: 20rem !important;
+  max-height: 20rem !important;
+  width: 20rem !important;
+  height: 20rem !important;
+}
+.wp-block-columns {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.homa-page-suppor-us-btn {
+  width: 100%;
+}
+.homa-page-suppor-us-btn > a {
+  width: 100%;
+}
+.help-animals-container {
+  height: 600px !important;
+}
+.help-animal-textBox {
+  box-shadow: -5px -5px #178655;
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/panda-bears.jpg') !important;
+  background-position: bottom;
+  background-size: cover;
+}
+.img-pattern {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/greenIMG-pattern.png') !important;
+}
+.help-animals-img-box {
+  background-color: white;
+  position: relative;
+  top: 100px;
+  right: 150px;
+}
+.help-animlal-bg {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/panda-animal.jpg') !important;
+  background-position: center center;
+  background-size: cover;
+  box-shadow: 5px 5px #393535;
+}
+.header-bg-image-home {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/carouse-image6.jpg'), url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/grey-paper-background.png') !important;
+  background-position: center center;
+  background-size: cover;
+  height: 70vh;
+  background-blend-mode: multiply;
+}
+.header-shape {
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+}
+.header-shape2 {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/paw-black-shape.svg');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  left: -25px;
+  bottom: 460px;
+  transform: rotate(29deg);
+}
+.header-shape3 {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/paw-black-shape.svg');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  transform: rotate(34deg);
+  left: 23px;
+  top: 225px;
+}
+.header-shape4 {
+  background-image: url('/SherlockZoo/wp-content/themes/SherlockZooTheem/assets/images/paw-black-shape.svg');
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  transform: rotate(34deg);
+  left: 275px;
+  top: 155px;
+}
+.swiper-container {
+  width: 100%;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  margin-right: 40px !important;
+  margin-left: 40px !important;
+  background: #fff;
+  width: 400px !important;
+  height: 300px !important;
+  background-size: cover !important;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.swiper-slide:hover {
+  transition: 0.5s ease-in-out;
+  opacity: 0.5;
+  transform: scale(1.1);
+}
+.greay-slider-bg {
+  background-color: #484848;
+}
