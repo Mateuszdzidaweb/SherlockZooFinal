@@ -205,9 +205,9 @@ Author: Mateusz Dzida
     .supportDivs {
       margin-top: 10rem !important;
     }
-    .img-box-text {
+    /* .img-box-text {
       bottom: -9rem !important;
-    }
+    } */
     .table {
       width: 100% !important;
       margin-left: auto;
@@ -226,14 +226,14 @@ Author: Mateusz Dzida
       display: none;
     }
     .help-animlal-bg {
-      background-image: url('./images/panda-animal.jpg') !important;
+      background-image: url('./images/panda-animal.png') !important;
       background-position: center center;
       background-size: cover;
       box-shadow: none !important;
     }
     .help-animal-textBox {
       box-shadow: none;
-      background-image: url('./images/panda-bears.jpg') !important;
+      background-image: url('./images/panda-bears.png') !important;
       background-position: center center;
       background-size: cover !important;
     }
@@ -300,7 +300,7 @@ Author: Mateusz Dzida
   }
   .help-animal-textBox {
     box-shadow: -5px -5px #178655;
-    background-image: url('./images/panda-bears.jpg') !important;
+    background-image: url('./images/panda-bears.png') !important;
     background-position: bottom;
     background-size: cover;
   }
@@ -314,13 +314,13 @@ Author: Mateusz Dzida
     right: 150px;
   }
   .help-animlal-bg {
-    background-image: url('./images/panda-animal.jpg') !important;
+    background-image: url('./images/panda-animal.png') !important;
     background-position: center center;
     background-size: cover;
     box-shadow: 5px 5px #393535;
   }
   .header-bg-image-home {
-    background-image: url('./images/carouse-image6.jpg'), url('./images/grey-paper-background.png') !important;
+    background-image: url('./images/carouse-image6.png'), url('./images/grey-paper-background.png') !important;
     background-position: center center;
     background-size: cover;
     height: 70vh;

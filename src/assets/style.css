@@ -200,9 +200,9 @@ svg {
   .supportDivs {
     margin-top: 10rem !important;
   }
-  .img-box-text {
+  /* .img-box-text {
     bottom: -9rem !important;
-  }
+  } */
   .table {
     width: 100% !important;
     margin-left: auto;
