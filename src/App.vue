@@ -35,7 +35,7 @@ export default {
 }
 
 #nav {
-  padding: 30px;
+
 
   a {
     font-weight: bold;

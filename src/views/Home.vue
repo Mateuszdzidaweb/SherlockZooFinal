@@ -172,8 +172,9 @@ export default {
   .help-animals-container {
     height: auto !important;
   }
-  .help-animals-container {
+  .help-animals-container, .help-animlal-bg  {
     box-shadow: none !important;
   }
+  
 }
 </style>

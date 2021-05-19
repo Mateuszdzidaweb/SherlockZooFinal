@@ -3,7 +3,7 @@
     <div
       class="w-auto h-auto header-shape flex flex-col justify-end items-start p-2 lg:p-5 mb-40"
     >
-      <div class="p-2">
+      <div class="py-2">
         <h1
           class="text-white text-4xl lg:text-6xl main-heading-font text-center"
         >
@@ -15,7 +15,7 @@
       </div>
       <div class="w-full h-auto m-auto lg:flex lg:flex-row justify-center">
         <button
-          class="w-3/4 lg:w-auto m-auto justify-center text-white text-center block rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl main-text-font"
+          class="w-full lg:w-auto m-auto justify-center text-white text-center rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl main-text-font"
         >
           Visit Us
           <svg
@@ -40,7 +40,7 @@
         </button>
 
         <button
-          class="w-3/4 lg:w-auto m-auto justify-center text-white text-center block rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl golden-bg"
+          class=" w-full lg:w-auto m-auto justify-center text-white text-center block rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl golden-bg"
         >
           Meet Our Animals
           <svg

@@ -1,7 +1,7 @@
 <template>
   <div>
  
-    <div class="w-full bg-gray-700 text-white">
+    <div class="w-full bg-gray-700 text-white pb-10 md:pb-20 lg:pb-0 xl:pb-0">
       <div class="xl:px-40 pb-12 lg:px-20 md:px-10 sm:px-5 px-10">
         <div
           class="w-full pt-12 flex flex-col sm:flex-row space-y-2 justify-start"
@@ -50,7 +50,7 @@
             <a class="opacity-60">Zoo At Home</a>
             <a class="opacity-60">Donate</a>
           </div>
-          <div class="w-full sm:w-1/5 pt-6 flex items-end mb-1">
+          <div class="w-full sm:w-1/5 pt-6 flex items-end mb-1 justify-center">
             <div class="flex flex-row space-x-4">
               <i class="fab fa-facebook-f"></i>
               <i class="fab fa-twitter"></i>
