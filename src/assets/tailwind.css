@@ -334,6 +334,14 @@ Author: Mateusz Dzida
     height: 55vh;
     background-blend-mode: multiply;
   }
+
+  .animals-banner{
+    background-image: url('./images/animals-page-baner.png'), url('./images/grey-paper-background.png') !important;
+    background-position: center center;
+    background-size: cover;
+    height: 55vh;
+    background-blend-mode: multiply;
+  }
   
   .header-shape {
     background-size: cover;
