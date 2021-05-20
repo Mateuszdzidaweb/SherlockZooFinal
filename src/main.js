@@ -4,7 +4,17 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+
+import VCalendar from 'v-calendar';
+
+// Use v-calendar & v-date-picker components
+Vue.use(VCalendar, {
+    componentPrefix: 'vc', // Use <vc-calendar /> instead of <v-calendar />
+   // ...other defaults
+});
+
+
 new Vue({
-  router,
-  render: h => h(App)
+    router,
+    render: h => h(App)
 }).$mount('#app')

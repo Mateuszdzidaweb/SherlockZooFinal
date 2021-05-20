@@ -270,7 +270,7 @@ Author: Mateusz Dzida
   #site-navigation a:hover,
   #site-navigation a:active,
   a[aria-current] {
-    color: green !important;
+    color: darkgoldenrod !important;
   }
   .current_page_item {
     font-weight: bolder;
@@ -326,6 +326,15 @@ Author: Mateusz Dzida
     height: 70vh;
     background-blend-mode: multiply;
   }
+
+  .visit-banner{
+    background-image: url('./images/visit-banner.png'), url('./images/grey-paper-background.png') !important;
+    background-position: center center;
+    background-size: cover;
+    height: 55vh;
+    background-blend-mode: multiply;
+  }
+  
   .header-shape {
     background-size: cover;
     background-position: center;

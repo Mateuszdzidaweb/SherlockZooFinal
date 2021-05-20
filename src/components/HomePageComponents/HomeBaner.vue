@@ -5,17 +5,17 @@
     >
       <div class="py-2">
         <h1
-          class="text-white text-4xl lg:text-6xl main-heading-font text-center"
+          class="text-white text-4xl md:text-5xl lg:text-6xl main-heading-font text-center"
         >
           Sherlock Zoo
         </h1>
-        <h2 class="text-white main-heading-font text-center">
+        <h2 class="text-white text-2xl md:text-3xl py-2 main-heading-font text-center">
           Bristol & Philadelphia
         </h2>
       </div>
-      <div class="w-full h-auto m-auto lg:flex lg:flex-row justify-center">
+      <div class="w-full h-auto m-auto md:w-6/7 lg:flex lg:flex-row justify-center">
         <button
-          class="w-full lg:w-auto m-auto justify-center text-white text-center rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl main-text-font"
+          class="w-full lg:w-auto m-auto justify-center text-white text-center rounded-sm font-bold py-3 px-6 lg:ml-2 flex items-center main-green-bg text-2xl md:text-3xl lg:text-2xl main-text-font mb-2"
         >
           Visit Us
           <svg
@@ -40,7 +40,7 @@
         </button>
 
         <button
-          class=" w-full lg:w-auto m-auto justify-center text-white text-center block rounded-sm font-bold py-3 px-6 ml-2 flex items-center main-green-bg text-lg lg:text-2xl golden-bg"
+          class=" w-full lg:w-auto m-auto justify-center text-white text-center rounded-sm font-bold py-3 px-6 lg:ml-2 flex items-center main-green-bg md:text-3xl text-2xl lg:text-2xl golden-bg lg:mt-0"
         >
           Meet Our Animals
           <svg

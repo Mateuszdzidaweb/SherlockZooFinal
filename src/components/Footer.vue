@@ -36,21 +36,21 @@
                 fill="url(#pattern)"
               />
             </svg>
-            <p class="opacity-60">
+            <p class="opacity-60 md:text-md lg:text-xl">
               Concord Royal Court (3rd floor) Dhanmondi, Dhaka 1209, Bangladesh.
             </p>
           </div>
-          <div class="w-full sm:w-1/5 flex flex-col space-y-4">
+          <div class="w-full sm:w-1/5 flex flex-col space-y-4 md:text-md lg:text-xl">
             <a class="opacity-60">Home</a>
             <a class="opacity-60">Visit</a>
             <a class="opacity-60">Events</a>
           </div>
-          <div class="w-full sm:w-1/5 flex flex-col space-y-4">
+          <div class="w-full sm:w-1/5 flex flex-col space-y-4 md:text-md lg:text-xl">
             <a class="opacity-60">Animals</a>
             <a class="opacity-60">Zoo At Home</a>
             <a class="opacity-60">Donate</a>
           </div>
-          <div class="w-full sm:w-1/5 pt-6 flex items-end mb-1 justify-center">
+          <div class="w-full sm:w-1/5 pt-6 flex items-end mb-1 md:text-xl lg:text-2xl justify-center">
             <div class="flex flex-row space-x-4">
               <i class="fab fa-facebook-f"></i>
               <i class="fab fa-twitter"></i>
@@ -59,7 +59,7 @@
             </div>
           </div>
         </div>
-        <div class="opacity-60 pt-2">
+        <div class="opacity-60 mt-4 md:text-md xl:text-xl">
           <p>© 2021 Sherlock Zoo</p>
         </div>
       </div>

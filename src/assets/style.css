@@ -8,6 +8,12 @@ Author: Mateusz Dzida
 
 
 */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 @font-face {
   font-family: 'Arimo';
   font-style: normal;
@@ -321,6 +327,8 @@ a[aria-current] {
   height: 70vh;
   background-blend-mode: multiply;
 }
+
+
 .header-shape {
   background-size: cover;
   background-position: center;
