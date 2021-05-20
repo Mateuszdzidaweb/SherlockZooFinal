@@ -17,7 +17,7 @@
         </Tab>
 
         <Tab name="Bristol">
-          
+          <AnimalBristolComponent></AnimalBristolComponent>
         </Tab>
       </Tabs>
     </div>
@@ -45,6 +45,7 @@
 <script>
 import AnimalsBanner from "@/components/AnimalsPageComponents/AnimalsBanner.vue";
 import AnimalComponent from "@/components/AnimalsPageComponents/AnimalComponent.vue";
+import AnimalBristolComponent from "@/components/AnimalsPageComponents/AnimalBristolComponent.vue";
 import Tab from "@/components/Tab.vue";
 import Tabs from "@/components/Tabs.vue";
 export default {
@@ -56,6 +57,7 @@ export default {
     Tab,
     Tabs,
     AnimalComponent,
+    AnimalBristolComponent
   },
 };
 </script>

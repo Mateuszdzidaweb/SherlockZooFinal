@@ -342,6 +342,14 @@ Author: Mateusz Dzida
     height: 55vh;
     background-blend-mode: multiply;
   }
+
+  .zooAtHomeBanner{
+    background-image: url('./images/ZooAtHomeBanner.png'), url('./images/grey-paper-background.png') !important;
+    background-position: center center;
+    background-size: cover;
+    height: 55vh;
+    background-blend-mode: multiply;
+  }
   
   .header-shape {
     background-size: cover;
