@@ -1,0 +1,147 @@
+{
+    "PhiladelphiaAnimals": [{
+            "id": 0,
+            "animalName": "Painted Dog",
+            "animalHeading": "Painted dogs are CARNIVORES and highly social animals living in large packs in that hunt together. Their diet consists of impala, kudu, springbok and wildebeest.",
+            "animalInfo": "African painted dogs, also known as the Cape hunting dog, have a Latin name which means ‘painted wolf’, based on the unique pattern of each individual animal. Their large, round ears can pick up calls from other dogs far away and can also move to indicate directions for other members of the pack. They communicate to each other using high pitched yaps to coordinate their attacks. Before they hunt the pack has a socially rally which gets the dogs awake, excited and ready! They’ll chase the prey until it tires and then share the meal with the other pack members letting the pups eat first. Painted dogs live in fission-fusion societies meaning they will move in and out of packs. Pack sizes can range between 2-30 members with a monogamous breeding pair leading the others. These pairs have very large litters so all the pack members help to look after the pups. The pack needs to bring enough food to feed the pups and the mother as she will stay with them in an underground den while they’re suckling. Pack members are known to switch roles and some dogs will stay behind to protect the pups while the others go hunting. Painted dog numbers have plummeted in the last 100 years and human-wildlife conflict is known to be the main cause.",
+            "animalIMG": "Painted-Dog.jpg",
+            "animalDiet": "Painted dogs are CARNIVORES Their diet consists of mainly impala, kudu, springbok, wildebeest ",
+            "animalHabit": "They occupy grassy plains, savannah  woodland and semi desert areas in Africa ",
+            "animalFact": "Lycaon means wolf in Greek and pictus means painted in Latin"
+        },
+        {
+            "id": 1,
+            "animalName": "Giraffe",
+            "animalHeading": "Giraffes are nature’s gentle giants, growing up to six metres tall!",
+            "animalInfo": "Their tongues can measure up to 45cm long – great for helping them pull down leaves, shoots, bark and flowers off tree branches to eat. They have a special valve in their neck that stops the blood rushing to their head when they bend down to drink. You can tell Rothschilds apart from other types of giraffe because they have no markings on their lower legs. They’re also the taller than other giraffe species. Their name comes from the founder of the Tring Museum, Lionel Walter, the 2nd Baron Rothschild. They live in the open woodlands, savannahs and grasslands of Uganda and Kenya where they live in small herds, with males and females only mixing for mating. It takes up to sixteen months for a baby giraffe to gestate and mothers usually birth just one baby at a time. Giraffes necks are long, but they actually contain the same number of bones (vertebra) as humans (seven). Males use their strong neck as weapons to fight over females! Their large hooves are covered in a thick keratin coating and they use them to kick chasing predators. A single kick can kill a lion!",
+            "animalIMG": "Giraffe.jpg",
+            "animalDiet": "Giraffes are HERBIVORES which means they only eat plants. Their long necks allow them to reach leaves, seeds, fruits, buds and branches high up in mimosa and acacia trees.",
+            "animalHabit": "Giraffes live in the savannahs of Africa, where they roam freely among the tall trees, arid land, dense forests and open plains.",
+            "animalFact": "Their dark tongues protect them from"
+        },
+        {
+            "id": 2,
+            "animalName": "Andean Bear",
+            "animalHeading": "These bears are named after the Andes Mountains where wild bears live.",
+            "animalInfo": "Andean bears are sometimes referred to as spectacled bears because of the white rings they sometimes have around their eyes, making them look like they’re wearing a pair of specs! Their short muzzle with wide flat teeth helps them chew through vegetation and tree bark, and their thick shaggy fur keeps them warm at high altitudes. They are perfectly adapted for climbing trees, which they do to reach the fruit, berries and honey they eat. They have non-retractable claw for gripping trees, sometimes climbing as high as 13,000 feet to reach food! With a lifespan of about 20 years, these bears live a solitary lifestyle, coming together only to mate. It takes two to three months for the mother to give birth to one or two cubs who remain in the safety of their den for the first three months of their lives.",
+            "animalIMG": "Andean-Bear.jpg",
+            "animalDiet": "They are OMNIVORES Generally they feed mainly on fruit, roots and tubers but also eat fresh meat and insects",
+            "animalHabit": "They live on the eastern forest slopes along the Andean Mountains ",
+            "animalFact": "They are also known as spectacled bears because they have light fur outlines on their faces, giving them the appearenace of wearing"
+        },
+        {
+            "id": 3,
+            "animalName": "Javan green Magpie",
+            "animalHeading": "This brightly coloured songbird is one of Indonesia’s most beautiful, but also most endangered and their numbers are rapidly decreasing. The Javan green magpie has a stunning and distinctive apple green plumage, but is born with blue plumage.",
+            "animalInfo": "The blue plumage will turn green after their first moulting due to a pigment called lutein in their diet. Studies have proved that the vibrant, green feathers of the Javan magpie are important for attracting a mate for successful breeding. In Indonesia many people believe that owning a pet bird is a status symbol, and exotic wild birds can be bought from bird markets where they are kept in terrible conditions. Because of this, birds like the Javan green magpie are now endangered.",
+            "animalIMG": "Jave-green-magpie.jpg",
+            "animalDiet": "Javan green magpies are CARNIVORES feeding primarily on large insects and lizards",
+            "animalHabit": "These beautiful birds are native to western Java in Indonesia and inhabit dense montane forests",
+            "animalFact": "he black 'mask' on their face is raised  when excited and used in mating displays"
+        },
+        {
+            "id": 4,
+            "animalName": "Okapi",
+            "animalHeading": "These fascinating animals remained undiscovered until 1901, deep in Central Africa and look like a cross between a horse and a zebra.",
+            "animalInfo": "For years, even the best animal experts in the world couldn’t determine what kind of animal the okapi is related to. The most striking thing about Okapi is their beautiful dark velvety fur and a stripey rear, but the biggest clue to which family they belong to is their long necks. They’ve got long tongues and ossicones on their heads, just like another large mammal… Yes, believe it or not, Okapi are part of the giraffe family. These incredibly shy animals were undiscovered to science until the 20th century when a team of scientists went on search for them. They sent okapi skins back to the British Museum where they were wrongly identified as a new species of zebra. You can spot the difference between male and female okapis by their ossicones – females don’t have them! Females are also taller than males. Okapi have long pregnancies lasting for up to 450 days, and mothers give birth to a single calf. It’s vital that new mothers bond with their babies immediately, as the survival of the calf depends upon this happening.",
+            "animalIMG": "Okapi.jpg",
+            "animalDiet": "Okapi are HERBIVORES, eating many different plants. They like leaves shoots twigs and sometimes fruit",
+            "animalHabit": "and equatorial rain forest in the Democratic Republic of Congo",
+            "animalFact": "Okapi produce an infrasonic call to communicate with their calves, a sound which humans cannot hear."
+        },
+        {
+            "id": 5,
+            "animalName": "Mandrill",
+            "animalHeading": "Mandrills are OMNIVORES and the largest monkeys in the world characterised by a red stripe down their elongated muzzles with blue ridges on the sides. They may look like baboons but they are closer in relation to mangabeys.",
+            "animalInfo": "Mandrills will use their teeth to express a variety of emotions and behaviours. Their sharp canines are used for defence but a quick flash of their teeth is friendly gesture and a yawn is a warning not to approach! These primates are incredibly social living in large groups called hordes with a hierarchy of dominant males and females at the top. The dominant males ultimately lead and father most of the offspring. They are sexually dimorphic, with males being around a third heavier than females. Mandrill hordes live in groups of up to 50 individuals which spend their days on the ground and sleep in the trees at night. Females will raise the young and provide most of the care to the offspring.",
+            "animalIMG": "Mandrill.jpg",
+            "animalDiet": "Mandrills are OMNIVORES Their diet is diverse consisting of fruit, leaves, insects, fungus and seeds",
+            "animalHabit": "Mandrills are found in evergreen forest of equatorial Africa",
+            "animalFact": "Males use colour to define dominance and attract females"
+        },
+        {
+            "id": 6,
+            "animalName": "Asian Elephant",
+            "animalHeading": "Elephants are the largest land animal in the world. There are two main species – Asian and African.",
+            "animalInfo": "Asian elephants are smaller than their African cousins, and Intelligent and sociable, they live together in family groups and are usually led by the oldest female. Their most distinctive feature is of course their long trunks which can be very powerful, but also very delicate when needed to forage for food. They need to eat a lot and can spend two thirds of a day feeding. They eat grasses, tree bark, roots, leaves and the like. Their ivory tusks help with digging, stripping bark from trees and fighting. Not all male Asian elephants have tusks! But both males and females can have tushes, which are incisor teeth that grow to just below the bottom lip. An elephant’s ears are used to keep the animal cool as they radiate heat, and Asian elephants have smaller ears than African ones. Despite the fact that their trunks are sophisticated long noses, Asian elephants have a finger at the end enabling the elephant to handle small items. African elephants have two fingers at the end of their trunks. Elephants spend almost 22 months pregnant with a calf. That’s the longest amount of time for any mammal! Female elephants (cows), give birth to one calf every two to four years.",
+            "animalIMG": "Asian-elephant.jpg",
+            "animalDiet": "Asian elephants are HERBIVORES and feed upon plants including grasses leaves roots tree bark and bushes",
+            "animalHabit": "Asian elephants live in scrub forests and grassy terrains in India and Southeast Asia. ",
+            "animalFact": "Elephants are intelligent and sociable animals who live together in family groups, usually led by the oldest female."
+        }
+    ],
+    "BristolAnimals": [{
+
+            "id": 0,
+            "animalName": "Mandrill",
+            "animalHeading": "Mandrills are OMNIVORES and the largest monkeys in the world characterised by a red stripe down their elongated muzzles with blue ridges on the sides. They may look like baboons but they are closer in relation to mangabeys.",
+            "animalInfo": "Mandrills will use their teeth to express a variety of emotions and behaviours. Their sharp canines are used for defence but a quick flash of their teeth is friendly gesture and a yawn is a warning not to approach! These primates are incredibly social living in large groups called hordes with a hierarchy of dominant males and females at the top. The dominant males ultimately lead and father most of the offspring. They are sexually dimorphic, with males being around a third heavier than females. Mandrill hordes live in groups of up to 50 individuals which spend their days on the ground and sleep in the trees at night. Females will raise the young and provide most of the care to the offspring.",
+            "animalIMG": "Mandrill.jpg",
+            "animalDiet": "Mandrills are OMNIVORES Their diet is diverse consisting of fruit, leaves, insects, fungus and seeds",
+            "animalHabit": "Mandrills are found in evergreen forest of equatorial Africa",
+            "animalFact": "Males use colour to define dominance and attract females"
+        },
+        {
+            "id": 1,
+            "animalName": "Javan green Magpie",
+            "animalHeading": "This brightly coloured songbird is one of Indonesia’s most beautiful, but also most endangered and their numbers are rapidly decreasing. The Javan green magpie has a stunning and distinctive apple green plumage, but is born with blue plumage.",
+            "animalInfo": "The blue plumage will turn green after their first moulting due to a pigment called lutein in their diet. Studies have proved that the vibrant, green feathers of the Javan magpie are important for attracting a mate for successful breeding. In Indonesia many people believe that owning a pet bird is a status symbol, and exotic wild birds can be bought from bird markets where they are kept in terrible conditions. Because of this, birds like the Javan green magpie are now endangered.",
+            "animalIMG": "Jave-green-magpie.jpg",
+            "animalDiet": "Javan green magpies are CARNIVORES feeding primarily on large insects and lizards",
+            "animalHabit": "These beautiful birds are native to western Java in Indonesia and inhabit dense montane forests",
+            "animalFact": "he black 'mask' on their face is raised  when excited and used in mating displays"
+        },
+        {
+            "id": 2,
+            "animalName": "Asian Elephant",
+            "animalHeading": "Elephants are the largest land animal in the world. There are two main species – Asian and African.",
+            "animalInfo": "Asian elephants are smaller than their African cousins, and Intelligent and sociable, they live together in family groups and are usually led by the oldest female. Their most distinctive feature is of course their long trunks which can be very powerful, but also very delicate when needed to forage for food. They need to eat a lot and can spend two thirds of a day feeding. They eat grasses, tree bark, roots, leaves and the like. Their ivory tusks help with digging, stripping bark from trees and fighting. Not all male Asian elephants have tusks! But both males and females can have tushes, which are incisor teeth that grow to just below the bottom lip. An elephant’s ears are used to keep the animal cool as they radiate heat, and Asian elephants have smaller ears than African ones. Despite the fact that their trunks are sophisticated long noses, Asian elephants have a finger at the end enabling the elephant to handle small items. African elephants have two fingers at the end of their trunks. Elephants spend almost 22 months pregnant with a calf. That’s the longest amount of time for any mammal! Female elephants (cows), give birth to one calf every two to four years.",
+            "animalIMG": "Asian-elephant.jpg",
+            "animalDiet": "Asian elephants are HERBIVORES and feed upon plants including grasses leaves roots tree bark and bushes",
+            "animalHabit": "Asian elephants live in scrub forests and grassy terrains in India and Southeast Asia. ",
+            "animalFact": "Elephants are intelligent and sociable animals who live together in family groups, usually led by the oldest female."
+        },
+        {
+            "id": 3,
+            "animalName": "Giraffe",
+            "animalHeading": "Giraffes are nature’s gentle giants, growing up to six metres tall!",
+            "animalInfo": "Their tongues can measure up to 45cm long – great for helping them pull down leaves, shoots, bark and flowers off tree branches to eat. They have a special valve in their neck that stops the blood rushing to their head when they bend down to drink. You can tell Rothschilds apart from other types of giraffe because they have no markings on their lower legs. They’re also the taller than other giraffe species. Their name comes from the founder of the Tring Museum, Lionel Walter, the 2nd Baron Rothschild. They live in the open woodlands, savannahs and grasslands of Uganda and Kenya where they live in small herds, with males and females only mixing for mating. It takes up to sixteen months for a baby giraffe to gestate and mothers usually birth just one baby at a time. Giraffes necks are long, but they actually contain the same number of bones (vertebra) as humans (seven). Males use their strong neck as weapons to fight over females! Their large hooves are covered in a thick keratin coating and they use them to kick chasing predators. A single kick can kill a lion!",
+            "animalIMG": "Giraffe.jpg",
+            "animalDiet": "Giraffes are HERBIVORES which means they only eat plants. Their long necks allow them to reach leaves, seeds, fruits, buds and branches high up in mimosa and acacia trees.",
+            "animalHabit": "Giraffes live in the savannahs of Africa, where they roam freely among the tall trees, arid land, dense forests and open plains.",
+            "animalFact": "Their dark tongues protect them from"
+        },
+        {
+            "id": 4,
+            "animalName": "Okapi",
+            "animalHeading": "These fascinating animals remained undiscovered until 1901, deep in Central Africa and look like a cross between a horse and a zebra.",
+            "animalInfo": "For years, even the best animal experts in the world couldn’t determine what kind of animal the okapi is related to. The most striking thing about Okapi is their beautiful dark velvety fur and a stripey rear, but the biggest clue to which family they belong to is their long necks. They’ve got long tongues and ossicones on their heads, just like another large mammal… Yes, believe it or not, Okapi are part of the giraffe family. These incredibly shy animals were undiscovered to science until the 20th century when a team of scientists went on search for them. They sent okapi skins back to the British Museum where they were wrongly identified as a new species of zebra. You can spot the difference between male and female okapis by their ossicones – females don’t have them! Females are also taller than males. Okapi have long pregnancies lasting for up to 450 days, and mothers give birth to a single calf. It’s vital that new mothers bond with their babies immediately, as the survival of the calf depends upon this happening.",
+            "animalIMG": "Okapi.jpg",
+            "animalDiet": "Okapi are HERBIVORES, eating many different plants. They like leaves shoots twigs and sometimes fruit",
+            "animalHabit": "and equatorial rain forest in the Democratic Republic of Congo",
+            "animalFact": "Okapi produce an infrasonic call to communicate with their calves, a sound which humans cannot hear."
+        },
+        {
+            "id": 5,
+            "animalName": "Painted Dog",
+            "animalHeading": "Painted dogs are CARNIVORES and highly social animals living in large packs in that hunt together. Their diet consists of impala, kudu, springbok and wildebeest.",
+            "animalInfo": "African painted dogs, also known as the Cape hunting dog, have a Latin name which means ‘painted wolf’, based on the unique pattern of each individual animal. Their large, round ears can pick up calls from other dogs far away and can also move to indicate directions for other members of the pack. They communicate to each other using high pitched yaps to coordinate their attacks. Before they hunt the pack has a socially rally which gets the dogs awake, excited and ready! They’ll chase the prey until it tires and then share the meal with the other pack members letting the pups eat first. Painted dogs live in fission-fusion societies meaning they will move in and out of packs. Pack sizes can range between 2-30 members with a monogamous breeding pair leading the others. These pairs have very large litters so all the pack members help to look after the pups. The pack needs to bring enough food to feed the pups and the mother as she will stay with them in an underground den while they’re suckling. Pack members are known to switch roles and some dogs will stay behind to protect the pups while the others go hunting. Painted dog numbers have plummeted in the last 100 years and human-wildlife conflict is known to be the main cause.",
+            "animalIMG": "Painted-Dog.jpg",
+            "animalDiet": "Painted dogs are CARNIVORES Their diet consists of mainly impala, kudu, springbok, wildebeest ",
+            "animalHabit": "They occupy grassy plains, savannah  woodland and semi desert areas in Africa ",
+            "animalFact": "Lycaon means wolf in Greek and pictus means painted in Latin"
+        },
+        {
+            "id": 6,
+            "animalName": "Andean Bear",
+            "animalHeading": "These bears are named after the Andes Mountains where wild bears live.",
+            "animalInfo": "Andean bears are sometimes referred to as spectacled bears because of the white rings they sometimes have around their eyes, making them look like they’re wearing a pair of specs! Their short muzzle with wide flat teeth helps them chew through vegetation and tree bark, and their thick shaggy fur keeps them warm at high altitudes. They are perfectly adapted for climbing trees, which they do to reach the fruit, berries and honey they eat. They have non-retractable claw for gripping trees, sometimes climbing as high as 13,000 feet to reach food! With a lifespan of about 20 years, these bears live a solitary lifestyle, coming together only to mate. It takes two to three months for the mother to give birth to one or two cubs who remain in the safety of their den for the first three months of their lives.",
+            "animalIMG": "Andean-Bear.jpg",
+            "animalDiet": "They are OMNIVORES Generally they feed mainly on fruit, roots and tubers but also eat fresh meat and insects",
+            "animalHabit": "They live on the eastern forest slopes along the Andean Mountains ",
+            "animalFact": "They are also known as spectacled bears because they have light fur outlines on their faces, giving them the appearenace of wearing"
+        }
+
+    ]
+
+}

@@ -12,44 +12,12 @@
     </div>
     <div class="p-10">
       <Tabs>
-        <Tab name="Philadelphia" selected="true"> 
-
-
-
- <main class="my-8">
-        <div class="container mx-auto px-6">
-            <h3 class="text-gray-700 text-2xl font-medium">Sherlock Zoo Animals</h3>
-            <span class="mt-3 text-sm text-gray-500">200+ Animals</span>
-            <div class="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mt-6">
-                <div class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden">
-                    <div class="flex items-end justify-end h-56 w-full bg-cover" style="background-image: url('https://images.unsplash.com/photo-1495856458515-0637185db551?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80')">
-                    </div>
-                    <div class="px-5 py-3">
-                        <h3 class="text-gray-700 uppercase">Animal Name</h3>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="flex justify-center">
-                <div class="flex rounded-md mt-8">
-                    <a href="#" class="py-2 px-4 leading-tight bg-white border border-gray-200 text-blue-700 border-r-0 ml-0 rounded-l hover:bg-blue-500 hover:text-white"><span>Previous</span></a>
-                    <a href="#" class="py-2 px-4 leading-tight bg-white border border-gray-200 text-blue-700 border-r-0 hover:bg-blue-500 hover:text-white"><span>1</span></a>
-                    <a href="#" class="py-2 px-4 leading-tight bg-white border border-gray-200 text-blue-700 border-r-0 hover:bg-blue-500 hover:text-white"><span>2</span></a>
-                    <a href="#" class="py-2 px-4 leading-tight bg-white border border-gray-200 text-blue-700 border-r-0 hover:bg-blue-500 hover:text-white"><span>3</span></a>
-                    <a href="#" class="py-2 px-4 leading-tight bg-white border border-gray-200 text-blue-700 rounded-r hover:bg-blue-500 hover:text-white"><span>Next</span></a>
-                </div>
-            </div>
-        </div>
-    </main>
-
-
-
+        <Tab name="Philadelphia" selected="true">
+            <AnimalComponent></AnimalComponent>
         </Tab>
 
-
-
         <Tab name="Bristol">
-          <p>lorem10 sdds</p>
+          
         </Tab>
       </Tabs>
     </div>
@@ -74,9 +42,9 @@
   </div>
 </template>
 
-
 <script>
 import AnimalsBanner from "@/components/AnimalsPageComponents/AnimalsBanner.vue";
+import AnimalComponent from "@/components/AnimalsPageComponents/AnimalComponent.vue";
 import Tab from "@/components/Tab.vue";
 import Tabs from "@/components/Tabs.vue";
 export default {
@@ -87,6 +55,7 @@ export default {
     AnimalsBanner,
     Tab,
     Tabs,
+    AnimalComponent,
   },
 };
 </script>
